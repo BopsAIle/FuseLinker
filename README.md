@@ -137,7 +137,8 @@ python plot_roc_comparision.py \
 ```
 
 File ảnh đầu ra sẽ được lưu tại `fuselinker/roc_comparison.png`.
-
+## Check point 
+https://drive.google.com/drive/folders/1JMCVMFY9y_iLxA2UONq78XqD64OG_L0N
 ## Ghi chú
 
 - Nếu checkpoint không tồn tại, hãy kiểm tra lại đường dẫn trong `--model_state_file`.
